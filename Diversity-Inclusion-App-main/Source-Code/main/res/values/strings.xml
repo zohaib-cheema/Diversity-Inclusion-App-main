@@ -1,0 +1,68 @@
+<resources>
+
+    <!--  HomeActivity  -->
+    <string name="app_name">AnnieEasleyBiography</string>
+
+    <string name="homeActivity_labelName">Name: </string>>
+    <string name="homeActivity_name">Annie Jean Easley</string>
+
+    <string name="homeActivity_labelBirthDate">Born: </string>>
+    <string name="homeActivity_birthDate">April 23, 1933</string>
+    <string name="homeActivity_birthLocation">(Birmingham, AL)</string>
+
+    <string name="homeActivity_labelAge">Age: </string>>
+    <string name="homeActivity_age">78 years Old (deceased)</string>
+
+    <string name="homeActivity_labelLocation">Location: </string>>
+    <string name="homeActivity_location">Green Hill Cemetery</string>
+
+    <string name="homeActivity_labelNationality">Nationality: </string>>
+    <string name="homeActivity_nationality">United States</string>
+
+    <string name="homeActivity_labelBio">Biography: </string>>
+    <string name="homeActivity_bio">Annie Jean Easley was a computer scientist, mathematician, and rocket scientist with the National Aeronautics and Space Administration\'s Lewis Research Center and its precursor, the National Advisory Committee for Aeronautics. Annie Easley worked for NASA for 34 years, beginning as a "human computer." Later, she worked on alternative-energy technologies, energy-conservation systems, and the Centaur launch system, and was one of the first African-American computer programmers.</string>
+
+    <string name="homeActivity_buttonBioLabel">Biography</string>
+    <string name="homeActivity_buttonInfoLabel">More Info</string>
+    <string name="homeActivity_buttonDonateLabel">Donate</string>
+
+    <!--  BiographyActivity  -->
+    <string name="bioActivity_labelEarlyLife">Early Life</string>
+
+        <string name="bioActivity_earlyLife1">Annie Easley was born on April 23, 1933, in Birmingham, Alabama, to a single mother who raised her and her six-year-old brother.</string>
+        <string name="bioActivity_earlyLife2">Easley married a soldier from the military in 1954. They moved to Cleveland, Ohio when her husband was discharged from the military.</string>
+        <string name="bioActivity_earlyLife3">In 1955, Easley read a local newspaper article about twin sisters who worked as "computers" for the National Advisory Committee for Aeronautics. She applied the next day for a job and was employed two weeks later, one of four African Americans among the company\'s 2,500 employees.</string>
+
+    <string name="bioActivity_labelEducation">Education</string>
+
+        <string name="bioActivity_education1">Annie attended Holy Family High School from fifth grade through high school, where she was valedictorian of her graduating class.</string>
+            <string name="bioActivity_education2">In 1950, Easley enrolled at Xavier University in New Orleans, an African-American Roman Catholic university at the time, to study pharmacy for two years.</string>
+        <string name="bioActivity_education3">She graduated from Cleveland State University with a Bachelor of Science in Mathematics in 1977.</string>
+
+
+    <string name="bioActivity_labelAccomplishments">Accomplishments</string>
+
+        <string name="bioActivity_accomplishment1">Easley honed her skills as a computer programmer, supporting a variety of NASA initiatives with languages such as the Formula Translating System (Fortran).</string>
+        <string name="bioActivity_accomplishment2">She developed alternate power technologies (battery technology) for the Centaur upper-stage rocket and produced energy-conversion systems.</string>
+        <string name="bioActivity_accomplishment3">Her contributions to the Centaur project laid the technological groundwork for future satellite and space vehicle launches, including the Cassini mission to Saturn in 1997.</string>
+
+    <!--  DonateActivity  -->
+    <string name="donateActivity_labelName">Full Name: </string>
+
+    <string name="donateActivity_labelPhoneNumber">Phone Number: </string>
+
+    <string name="donateActivity_labelCreditCard">Credit Card #: </string>
+
+    <string name="donateActivity_labelCvc">CVC: </string>
+
+    <string name="donateActivity_labelAmount">Amount ($): </string>
+
+    <string name="donateActivity_labelReceipt">Receive Receipt: </string>
+
+    <string name="donateActivity_buttonDonate">Donate</string>
+
+    <string name="alertDialogError">Credit Card Invalid Entry</string>
+    <string name="alertDialogMessage">Your credit card should be entered in this format: "xxxx-xxxx-xxxx-xxxx"</string>
+    <string name="alertDialogButton">OK</string>
+
+</resources>
